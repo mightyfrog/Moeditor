@@ -162,6 +162,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Highlight Theme",
         "Render Theme": "Render Theme",
+        "No Theme": "No Theme",
         "Custom CSSs": "Custom CSSs",
 
         "Default": "Default",
@@ -262,6 +263,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "高亮主题",
         "Render Theme": "渲染主题",
+        "No Theme": "No Theme",
         "Custom CSSs": "自定义 CSS",
 
         "Default": "默认",
@@ -362,6 +364,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Highlight-Thema",
         "Render Theme": "Renderthema",
+        "No Theme": "No Theme",
         "Custom CSSs": "Benutzerdefiniertes CSS",
 
         "Default": "Standart",
@@ -462,6 +465,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Tema de Sintaxe",
         "Render Theme": "Tema de Renderização",
+        "No Theme": "No Theme",
         "Custom CSSs": "CSSs Personalizados",
 
         "Default": "Padrão",
@@ -562,6 +566,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Thème de coloration syntaxique",
         "Render Theme": "Thème de rendu",
+        "No Theme": "No Theme",
         "Custom CSSs": "CSS personnalisés",
 
         "Default": "Par défaut",
@@ -662,6 +667,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Tema de Syntaxis",
         "Render Theme": "Tema de Renderización",
+        "No Theme": "No Theme",
         "Custom CSSs": "CSSs Personalizados",
 
         "Default": "Predeterminado",
@@ -762,6 +768,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Highlight Thema",
         "Render Theme": "Render Thema",
+        "No Theme": "No Theme",
         "Custom CSSs": "Aangepaste CSSen",
 
         "Default": "Standaard",
@@ -862,6 +869,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Highlight Theme",
         "Render Theme": "Tema di render",
+        "No Theme": "No Theme",
         "Custom CSSs": "CSS personalizzato",
 
         "Default": "Predefinito",
@@ -962,6 +970,7 @@ const strings = {
         "Breaks": "Breaks",
         "Highlight Theme": "Тема подсветки кода",
         "Render Theme": "Тема визуализации",
+        "No Theme": "No Theme",
         "Custom CSSs": "Пользовательский CSS",
 
         "Default": "По умолчанию",
@@ -1062,6 +1071,7 @@ const strings = {
         "Breaks": "改行",
         "Highlight Theme": "ハイライトテーマ",
         "Render Theme": "描画テーマ",
+        "No Theme": "なし",
         "Custom CSSs": "カスタム CSS",
 
         "Default": "デフォルト",
